@@ -1,0 +1,17 @@
+{
+  "name": "merger-tag-tool",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "packager": "electron-packager ./ merger-tag-tool --platform=mas --platform=win32 --arch=x64 --out ./OutApp --app-version 0.0.1-beta --overwrite --icon=icon/icon-128.ico"
+  },
+  "devDependencies": {
+    "electron": "^3.0.2",
+    "electron-packager": "^12.2.0",
+    "electron-winstaller": "^2.7.0"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}

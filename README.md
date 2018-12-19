@@ -1,4 +1,8 @@
+### 界面截图
+
 ![screen shot](https://github.com/aicodex/Knowledge-Fusion-Tagging-tools/blob/master/screen_shots/screen.png?raw=true)
+
+### 使用方法
 
 下载nodejs
 

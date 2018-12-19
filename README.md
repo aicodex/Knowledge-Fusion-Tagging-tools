@@ -1,3 +1,5 @@
+![screen shot](https://github.com/aicodex/Knowledge-Fusion-Tagging-tools/blob/master/screen_shots/screen.png?raw=true)
+
 下载nodejs
 
 使用如下命令安装cnpm
